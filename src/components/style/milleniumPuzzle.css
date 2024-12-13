@@ -1,0 +1,16 @@
+.triangle {
+  width: 150px;
+  height: 100px;
+  background-color: #d3b012;
+  clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.millenium-eye {
+  width: 40%;
+  height: auto;
+}
